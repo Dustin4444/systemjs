@@ -27,7 +27,7 @@
     "build": "chomp build"
   },
   "devDependencies": {
-    "@jsenv/file-size-impact": "^5.2.0",
+    "@jsenv/file-size-impact": "^9.0.0",
     "@rollup/plugin-json": "^4.0.2",
     "@rollup/plugin-node-resolve": "^7.1.1",
     "@rollup/plugin-replace": "^2.4.2",
